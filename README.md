@@ -1,6 +1,6 @@
 ### It's **50D4**🍾
 
-###BIO
+### BIO
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevTeady" alt="DevTeady" /> </p>
 
@@ -21,6 +21,6 @@
 - 😃 Fun fact: **Don't Trust Soda Anyways**! ...
 
 
-###Stats
+### STATS
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DevTeady&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Dark's github stats](https://github-readme-stats.vercel.app/api?username=DevTeady)
