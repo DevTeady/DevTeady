@@ -1,5 +1,7 @@
 ### It's **50D4**🍾
 
+###BIO
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevTeady" alt="DevTeady" /> </p>
 
 - 🔭 I’m currently working like a noob...
@@ -19,5 +21,6 @@
 - 😃 Fun fact: **Don't Trust Soda Anyways**! ...
 
 
+###Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevTeady&show_icons=true" alt="DevTeady" /></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DevTeady&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
