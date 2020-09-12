@@ -1,9 +1,5 @@
-### It's Soda🍾 👋
+### It's **Soda**🍾 👋
 
-<!--
-**DevTeady/DevTeady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working like a noob...
 - 🌱 I’m currently learning python...
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/DarkSoda01...
 - 😄 Pronouns: dark🌚 then soda🍾 ...
 - ⚡ Fun fact: Don't Trust Soda Anyways! ...
--->
+
