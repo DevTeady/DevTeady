@@ -1,6 +1,7 @@
 ### It's **50D4**🍾
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevTeady" alt="DevTeady" /> </p>
+
 - 🔭 I’m currently working like a noob...
 
 - 🌱 I’m currently learning **python** ...
